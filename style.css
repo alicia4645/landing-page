@@ -1,3 +1,5 @@
+
+
 #header{
     display:flex;
     background-color: rgb(240, 240, 233);
@@ -5,8 +7,7 @@
 }
 
 h1{
-    font-size: 24px;
-    padding: 5px;
+    padding: 5px;  
 }
 
 .icon {
@@ -21,3 +22,20 @@ h1{
     justify-content: end;
 }
 
+#newArrivals{
+    width:100%;
+    height:320px;
+    background-image: url("images/newArrivals.png");
+    background-repeat: no-repeat;
+    background-size:100% 100% ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 38px;
+}
+
+button{
+    font-size: 25px;
+    background-color: rgb(240, 240, 233);
+}
