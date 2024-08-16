@@ -59,9 +59,19 @@ button{
 }
 
 .categories-item{
-    padding:0px 5px 5px 0px;  
+    padding:0px 5px 5px 0px;
+    text-align: center;  
 }
 
+#bestsellers{
+    display: flex;
+    justify-content: space-between;
+    width:100%;
+    align-items: center;
+}
 
-    
+.arrows{
+    width:30px;
+    height: 30px;
+}   
 
