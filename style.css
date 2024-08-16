@@ -1,4 +1,6 @@
-
+body{
+    background-color: rgb(253, 253, 241);
+}
 
 #header{
     display:flex;
@@ -38,4 +40,28 @@ h1{
 button{
     font-size: 25px;
     background-color: rgb(240, 240, 233);
+    width:100%
+    
 }
+
+.section-header{
+    text-align: center;
+}
+
+#categories{
+    width:100%;
+}
+
+.categories-row{
+    display: flex;
+    justify-content: space-between;
+    width:100%;
+}
+
+.categories-item{
+    padding:0px 5px 5px 0px;  
+}
+
+
+    
+
