@@ -75,3 +75,17 @@ button{
     height: 30px;
 }   
 
+#newsletter{
+    border: 1px solid black;
+    text-align: center;
+    background-color:rgb(240, 240, 233);
+    width:100%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+input{
+    box-sizing: border-box;
+    padding: 5px;
+    width:60%;
+}
